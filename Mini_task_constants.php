@@ -23,6 +23,7 @@ echo "<br/><br/>";
 echo "My age add five years is: ";
 echo $age + "5";
 echo "<br/><br/>";
+echo $GLOBAL;
 ?>
 
 </body>
