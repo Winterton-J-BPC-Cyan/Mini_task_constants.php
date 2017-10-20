@@ -7,7 +7,7 @@ define("firstName","Josh");
 define("secondName","Winterton");
 define("favSubject","3D modeling");
 $age="18 years old";
-$browser = get_browser(null,return_array)
+$browser = get_browser(null,True)
 
 echo "My first name is: ";
 echo firstName;
